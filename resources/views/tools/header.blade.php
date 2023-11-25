@@ -2,7 +2,7 @@
     <div class="container-fluid">
       <nav class="navbar navbar-expand-lg custom_nav-container ">
         <a class="navbar-brand" href="{{url('/')}}">
-          <span>Motora</span>
+        <i style="font-size: 50px; padding-right:30px; color: red;" class="fa fa-gear me-2"></i><span style="position:relative; top:-10px">AutoMend</span>
         </a>
 
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">

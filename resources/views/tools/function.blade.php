@@ -9,7 +9,7 @@
 <meta name="description" content="" />
 <meta name="author" content="" />
 
-<title>Motora</title>
+<title>AutoMend</title>
 <!-- bootstrap core css -->
 <link rel="stylesheet" type="text/css" href="css/bootstrap.css" />
 
